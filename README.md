@@ -1,2 +1,2 @@
 # AluraPlus
-Trabalho realizar no curso prática HTML e CSS da Alura
+Trabalho realizado no curso de prática em HTML e CSS da Alura
